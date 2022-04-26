@@ -20,7 +20,7 @@ setuptools.setup(
         'numpy',
         'matplotlib',
         'pyserial',
-        'pathlib',
+        'pathlib2',
         'gnupg'
         ],
     classifiers=[
